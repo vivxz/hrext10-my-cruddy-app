@@ -13,7 +13,7 @@ function add() {
 
     if (task === ''){
         alert('Must add a task!')
-        return false;
+        return;
     }
  
     var todos = get_todos();
