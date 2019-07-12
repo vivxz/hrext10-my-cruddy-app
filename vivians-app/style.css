@@ -86,3 +86,15 @@ button{
 	border: none;
 }
 
+#add, #task{
+	width: auto;
+	display: inline-block;
+	height: auto;
+	font-size: 20px;
+	background: transparent;
+}
+
+.fa-trash-alt{
+	background: transparent;
+	font-size: 15px;
+}
